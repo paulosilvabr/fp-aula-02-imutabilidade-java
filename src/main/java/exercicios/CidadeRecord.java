@@ -1,3 +1,3 @@
 package exercicios;
 
-record CidadeRecord(String nome){}
+public record CidadeRecord(String nome){}
